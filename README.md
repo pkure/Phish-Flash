@@ -5,11 +5,12 @@
 🔗 **Live:** [phish-flash.com](https://phish-flash.com) &nbsp;·&nbsp; 💛 Free, no sign-up &nbsp;·&nbsp; 🛡️ Safe by design &nbsp;·&nbsp; 🤖 AI-assisted, human-reviewed
  
 ---
+
+
  
-![Phish Flash main screenshot](assets/main-mockup.png)
+![Phish Flash main screenshot](assets/desktop_stitch)
  
-> *Hero banner: Phish Flash on a phone and laptop side by side, one card mid-flip. Alternative: logo on brand gradient.*
- 
+
 ---
  
 ## The problem I'm trying to solve
@@ -27,8 +28,10 @@ The landing page is the game. You're shown a message - an email, a text, a login
 No score, no sign-up, no pressure. Just reps: land → decide → flip → learn → next.
  
 ---
- 
-![The core loop ](assets/card-flip-demo.png)
+
+Mobile experience:
+
+![The core loop ](assets/mobile_stitch)
  
 
 ---
@@ -55,7 +58,7 @@ I run the infrastructure for this myself - domain, server, deploys, and monitori
  
 ---
  
-![Pipeline diagram](assets/pipeline-diagram.png)
+![Pipeline diagram](assets/templates-pipeline.png)
  
  
 ---
@@ -91,6 +94,8 @@ Send it to [info@phish-flash.com](mailto:info@phish-flash.com) and it may become
 ---
  
 ## Contact
+
+![Phish Flash Banner](assets/long_banner.png)
  
 [info@phish-flash.com](mailto:info@phish-flash.com) &nbsp;·&nbsp; [phish-flash.com](https://phish-flash.com)
  
